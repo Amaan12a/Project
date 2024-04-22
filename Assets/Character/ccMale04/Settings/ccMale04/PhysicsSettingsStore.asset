@@ -1,0 +1,272 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f437941fa6ee4e4479a4e51ab0f1eefb, type: 3}
+  m_Name: PhysicsSettingsStore
+  m_EditorClassIdentifier: 
+  colliderSettings:
+  - name: CC_Base_Hip_Capsule
+    collider: {fileID: 0}
+    radiusAdjust: 0
+    heightAdjust: 0
+    xAdjust: 0
+    yAdjust: 0
+    zAdjust: 0
+    xRotate: 0
+    yRotate: 0
+    zRotate: 0
+    radius: 0.076927304
+    height: 0.4030525
+    position: {x: 0.07027143, y: 0.0435307, z: -0.011664846}
+    rotation: {x: 0.17065938, y: 0.032088533, z: 0.0747223, w: 0.9819686}
+  - name: CC_Base_Hip_Capsule(0)
+    collider: {fileID: 0}
+    radiusAdjust: 0
+    heightAdjust: 0
+    xAdjust: 0
+    yAdjust: 0
+    zAdjust: 0
+    xRotate: 0
+    yRotate: 0
+    zRotate: 0
+    radius: 0.076927304
+    height: 0.4030525
+    position: {x: -0.064139605, y: 0.04255074, z: -0.011668448}
+    rotation: {x: 0.17358477, y: 0.0047541326, z: -0.08118187, w: 0.98145574}
+  - name: CC_Base_L_Thigh_Capsule
+    collider: {fileID: 0}
+    radiusAdjust: 0
+    heightAdjust: 0
+    xAdjust: 0
+    yAdjust: 0
+    zAdjust: 0
+    xRotate: 0
+    yRotate: 0
+    zRotate: 0
+    radius: 0.07071281
+    height: 0.5642494
+    position: {x: -0.003922824, y: 0.23329651, z: 0.015720967}
+    rotation: {x: -0.039259847, y: -0.000000017404087, z: -0.00000012627422, w: 0.9992291}
+  - name: CC_Base_L_Calf_Capsule
+    collider: {fileID: 0}
+    radiusAdjust: 0
+    heightAdjust: 0
+    xAdjust: 0
+    yAdjust: 0
+    zAdjust: 0
+    xRotate: 0
+    yRotate: 0
+    zRotate: 0
+    radius: 0.057646785
+    height: 0.46607286
+    position: {x: 0.015705343, y: 0.23523992, z: -0.015024536}
+    rotation: {x: 0.000000008847564, y: -0.000000022566379, z: -0.00000012212483,
+      w: 1}
+  - name: CC_Base_R_Thigh_Capsule
+    collider: {fileID: 0}
+    radiusAdjust: 0
+    heightAdjust: 0
+    xAdjust: 0
+    yAdjust: 0
+    zAdjust: 0
+    xRotate: 0
+    yRotate: 0
+    zRotate: 0
+    radius: 0.07038782
+    height: 0.56419605
+    position: {x: 0.0038906983, y: 0.23329926, z: 0.015745627}
+    rotation: {x: -0.03925989, y: 0.0000000071595405, z: 0.000000055981204, w: 0.999229}
+  - name: CC_Base_R_Calf_Capsule
+    collider: {fileID: 0}
+    radiusAdjust: 0
+    heightAdjust: 0
+    xAdjust: 0
+    yAdjust: 0
+    zAdjust: 0
+    xRotate: 0
+    yRotate: 0
+    zRotate: 0
+    radius: 0.05754086
+    height: 0.46607262
+    position: {x: -0.015671877, y: 0.23524205, z: -0.015961185}
+    rotation: {x: -0.000000081723535, y: 0.000000007730703, z: 0.000000053613917,
+      w: 1}
+  - name: CC_Base_Spine01_Capsule(1)
+    collider: {fileID: 0}
+    radiusAdjust: 0
+    heightAdjust: 0
+    xAdjust: 0
+    yAdjust: 0
+    zAdjust: 0
+    xRotate: 0
+    yRotate: 0
+    zRotate: 0
+    radius: 0.11762814
+    height: 0.29701042
+    position: {x: 0.0000021457743, y: 0.16866963, z: -0.0010843016}
+    rotation: {x: -0.03697012, y: -0.70613974, z: 0.03697012, w: 0.70613974}
+  - name: CC_Base_NeckTwist01_Capsule
+    collider: {fileID: 0}
+    radiusAdjust: 0
+    heightAdjust: 0
+    xAdjust: 0
+    yAdjust: 0
+    zAdjust: 0
+    xRotate: 0
+    yRotate: 0
+    zRotate: 0
+    radius: 0.048611186
+    height: 0.15027459
+    position: {x: 0.00000014305009, y: 0.019029306, z: 0.0000070286915}
+    rotation: {x: 0.00000004470347, y: 0.0000000027328886, z: -0.0000000036855483,
+      w: 1}
+  - name: CC_Base_NeckTwist01_Capsule(0)
+    collider: {fileID: 0}
+    radiusAdjust: 0
+    heightAdjust: 0
+    xAdjust: 0
+    yAdjust: 0
+    zAdjust: 0
+    xRotate: 0
+    yRotate: 0
+    zRotate: 0
+    radius: 0.11335336
+    height: 0.35320416
+    position: {x: -0.000027942657, y: -0.11030439, z: 0.03955072}
+    rotation: {x: 0.00000010430809, y: -0.7071068, z: -0.00000011920925, w: 0.7071068}
+  - name: CC_Base_NeckTwist01_Capsule(1)
+    collider: {fileID: 0}
+    radiusAdjust: 0
+    heightAdjust: 0
+    xAdjust: 0
+    yAdjust: 0
+    zAdjust: 0
+    xRotate: 0
+    yRotate: 0
+    zRotate: 0
+    radius: 0.06859901
+    height: 0.26969215
+    position: {x: 0.06999017, y: -0.11323746, z: 0.101126865}
+    rotation: {x: -0.35282087, y: -0.61279476, z: 0.352821, w: 0.61279476}
+  - name: CC_Base_NeckTwist01_Capsule(2)
+    collider: {fileID: 0}
+    radiusAdjust: 0
+    heightAdjust: 0
+    xAdjust: 0
+    yAdjust: 0
+    zAdjust: 0
+    xRotate: 0
+    yRotate: 0
+    zRotate: 0
+    radius: 0.06859901
+    height: 0.26969215
+    position: {x: -0.07000982, y: -0.113237366, z: 0.10112682}
+    rotation: {x: -0.35282087, y: -0.61279476, z: 0.352821, w: 0.61279476}
+  - name: CC_Base_Head_Capsule
+    collider: {fileID: 0}
+    radiusAdjust: 0
+    heightAdjust: 0
+    xAdjust: 0
+    yAdjust: 0
+    zAdjust: 0
+    xRotate: 0
+    yRotate: 0
+    zRotate: 0
+    radius: 0.0735214
+    height: 0.21989825
+    position: {x: 0.00000036955066, y: 0.067343906, z: 0.025967646}
+    rotation: {x: -0.7071063, y: -0.00000009066929, z: -0.00000019134147, w: 0.70710737}
+  - name: CC_Base_L_Upperarm_Capsule
+    collider: {fileID: 0}
+    radiusAdjust: 0
+    heightAdjust: 0
+    xAdjust: 0
+    yAdjust: 0
+    zAdjust: 0
+    xRotate: 0
+    yRotate: 0
+    zRotate: 0
+    radius: 0.04645426
+    height: 0.32234544
+    position: {x: -0.012569848, y: 0.10272107, z: -0.005588962}
+    rotation: {x: 0.000000029802315, y: 0.00000006658955, z: -0.00000011507652, w: -1}
+  - name: CC_Base_L_Forearm_Capsule
+    collider: {fileID: 0}
+    radiusAdjust: 0
+    heightAdjust: 0
+    xAdjust: 0
+    yAdjust: 0
+    zAdjust: 0
+    xRotate: 0
+    yRotate: 0
+    zRotate: 0
+    radius: 0.039683364
+    height: 0.29718065
+    position: {x: 0.000012215106, y: 0.110316426, z: 0.000018630724}
+    rotation: {x: 0.0000000031868688, y: 0.00000007487686, z: -0.00000013500294, w: -1}
+  - name: CC_Base_L_Hand_Capsule
+    collider: {fileID: 0}
+    radiusAdjust: 0
+    heightAdjust: 0
+    xAdjust: 0
+    yAdjust: 0
+    zAdjust: 0
+    xRotate: 0
+    yRotate: 0
+    zRotate: 0
+    radius: 0.027483882
+    height: 0.0957202
+    position: {x: -0.0012158277, y: 0.045314446, z: 0.011921155}
+    rotation: {x: 0.000000010244546, y: 0.000000048894425, z: -0.00000009641551, w: -1}
+  - name: CC_Base_R_Upperarm_Capsule
+    collider: {fileID: 0}
+    radiusAdjust: 0
+    heightAdjust: 0
+    xAdjust: 0
+    yAdjust: 0
+    zAdjust: 0
+    xRotate: 0
+    yRotate: 0
+    zRotate: 0
+    radius: 0.04645186
+    height: 0.3224815
+    position: {x: 0.012566043, y: 0.10279069, z: -0.0055875606}
+    rotation: {x: -0.00000003725289, y: 0.000000056344994, z: -0.000000027648628,
+      w: 1}
+  - name: CC_Base_R_Forearm_Capsule
+    collider: {fileID: 0}
+    radiusAdjust: 0
+    heightAdjust: 0
+    xAdjust: 0
+    yAdjust: 0
+    zAdjust: 0
+    xRotate: 0
+    yRotate: 0
+    zRotate: 0
+    radius: 0.039681967
+    height: 0.29702896
+    position: {x: -0.000019379797, y: 0.110254, z: 0.000025081894}
+    rotation: {x: 0.00000003223976, y: 0.000000093423274, z: 0.00000011521184, w: 1}
+  - name: CC_Base_R_Hand_Capsule
+    collider: {fileID: 0}
+    radiusAdjust: 0
+    heightAdjust: 0
+    xAdjust: 0
+    yAdjust: 0
+    zAdjust: 0
+    xRotate: 0
+    yRotate: 0
+    zRotate: 0
+    radius: 0.029775897
+    height: 0.09573325
+    position: {x: 0.0014343512, y: 0.045466214, z: 0.009257008}
+    rotation: {x: -0.000000013504173, y: 0.0000000814907, z: 0.000000013214954, w: 1}
+  clothSettings: []
